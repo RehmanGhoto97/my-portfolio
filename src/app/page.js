@@ -8,6 +8,7 @@ import ContactForm from "@/components/ContactForm/ContactForm";
 const page = () => {
   return (
     <main className="text-white bg-black">
+       <h1 className="sr-only">Abdul Rehman | Frontend Developer Portfolio</h1>
       <Hero />
       <Banner />
       <div className="pt-40">
